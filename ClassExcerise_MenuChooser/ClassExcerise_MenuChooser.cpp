@@ -12,13 +12,13 @@ int main()
 
     switch (choice) {
     case 1:
-        std::cout << "Easy? Pfft.. I mean good choice!\n";
+        std::cout << "Easy? Pfft.. I mean good choice!\n\n";
         break;
     case 2:
-        std::cout << "Medium. Alright, thats cool.";
+        std::cout << "Medium. Alright, thats cool.\n\n";
         break;
     case 3:
-        std::cout << "HARD!! LETS GOOOO!";
+        std::cout << "HARD!! LETS GOOOO!\n\n";
         break;
     }
 }
